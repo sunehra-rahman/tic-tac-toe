@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+<img src="/public/assets/pinkgame.png" alt="React TicTacToe" title="React TicTacToe" width="500" height="500"/>
+
 ## Description
 
 Hello! I followed the React tutorial to create a simple tic-tac-toe game! Here's how to use it:
